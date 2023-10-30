@@ -1,5 +1,7 @@
 # sqlalchemy_sqlite_migration
 
+## Files
+
 BD classes:
 
 https://github.com/Cashaqu/sqlalchemy_sqlite_migration/blob/master/models.py
@@ -10,6 +12,9 @@ https://github.com/Cashaqu/sqlalchemy_sqlite_migration/blob/master/sqlalchemy.db
 
 Migration files:
 
+https://github.com/Cashaqu/sqlalchemy_sqlite_migration/blob/master/alembic/versions/b7de96b40195_creation.py
+
+## Commands
 
 Command for initialization alembic-config (creating directory ```./alembic```):
 ```sh
